@@ -1,0 +1,66 @@
+.imagens img{
+    width:350px;
+    height:350px;
+}
+
+.slidess{
+    height:700px;
+}
+
+.slidess img{
+    height:700px;
+   
+}
+
+.menu{
+    background-color:#F4F2F2;
+    font-family: cursive;   
+}
+
+#menu2{    
+     
+    padding:10px;
+ }
+ 
+ #menu2 ul{
+     list-style: none;
+ }
+ 
+ #menu2 ul li{
+     text-transform: uppercase;
+ }
+
+ #menu2 ul li a{
+    padding:20px;
+    text-decoration: none;
+    color:darkred;
+    font-weight: bold;
+   
+}
+
+.rodape2{
+    display: inline-block;
+    width:400px;
+    padding:30px;
+    
+}
+
+.rodape2 img{
+    width:50px;
+    height:50px;
+}
+
+.rodape{
+    padding:30px;
+   
+    background-color:#F4F2F2;
+
+}
+
+.linha hr{
+    
+  border-color: #8B0000;
+  
+}
+ 
+
